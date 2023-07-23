@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>compteur des mots</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" type="module" defer>app.js</script>
+</head>
+
+<body>
+    <h4>Legouene 🤣🤣🤣🤣</h4>
+    <hr>
+    <h2> le compteur de mots est une application Web qui te permet de savoir le nombre de mots utilisé dans un texte et bien plus</h2>
+<div class="container">
+    
+    <form>
+         <textarea name="texte" id=texte rows="8" cols="30" placeholder="mettre votre texte ici... Dans ce champ"></textarea>
+         <button type="submit">validé</button>
+    </form>
+    <div class="résultats">
+        <h2>les résultats :</h2>
+        <hr>
+        <span class="nombre">
+           
+        </span>
+        
+        <h2>plus de détails sur les résultats </h2>
+        <div class="plus">
+            
+        </div>
+    </div>
+   
+</div>
+</body>
+
+</html>
