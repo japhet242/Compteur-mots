@@ -6,8 +6,8 @@
 }
 form button{
     background: #01EB82;
-    width: 100px;
-    height: 30px
+    width: 200px;
+    height: 40px;
 }
 form button:hover{
     background:#EB017D
