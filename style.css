@@ -5,13 +5,14 @@
     font-size: 18px
 }
 form button{
-    background: #01EB82;
+    
     width: 250px;
     height: 50px;
-    font-size:18px
+    font-size:18px;
+    background:#EB017D
 }
 form button:hover{
-    background:#EB017D
+    background: #02EB82;
 } 
 h2{
     background :#01EB82;
